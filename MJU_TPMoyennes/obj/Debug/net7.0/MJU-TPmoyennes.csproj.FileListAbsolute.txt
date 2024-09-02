@@ -1,0 +1,15 @@
+C:\Users\mathi\source\repos\MJU_TPMoyennes\bin\Debug\net7.0\MJU-TPmoyennes.exe
+C:\Users\mathi\source\repos\MJU_TPMoyennes\bin\Debug\net7.0\MJU-TPmoyennes.deps.json
+C:\Users\mathi\source\repos\MJU_TPMoyennes\bin\Debug\net7.0\MJU-TPmoyennes.runtimeconfig.json
+C:\Users\mathi\source\repos\MJU_TPMoyennes\bin\Debug\net7.0\MJU-TPmoyennes.dll
+C:\Users\mathi\source\repos\MJU_TPMoyennes\bin\Debug\net7.0\MJU-TPmoyennes.pdb
+C:\Users\mathi\source\repos\MJU_TPMoyennes\obj\Debug\net7.0\MJU-TPmoyennes.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mathi\source\repos\MJU_TPMoyennes\obj\Debug\net7.0\MJU-TPmoyennes.AssemblyInfoInputs.cache
+C:\Users\mathi\source\repos\MJU_TPMoyennes\obj\Debug\net7.0\MJU-TPmoyennes.AssemblyInfo.cs
+C:\Users\mathi\source\repos\MJU_TPMoyennes\obj\Debug\net7.0\MJU-TPmoyennes.csproj.CoreCompileInputs.cache
+C:\Users\mathi\source\repos\MJU_TPMoyennes\obj\Debug\net7.0\MJU-TPmoyennes.sourcelink.json
+C:\Users\mathi\source\repos\MJU_TPMoyennes\obj\Debug\net7.0\MJU-TPmoyennes.dll
+C:\Users\mathi\source\repos\MJU_TPMoyennes\obj\Debug\net7.0\refint\MJU-TPmoyennes.dll
+C:\Users\mathi\source\repos\MJU_TPMoyennes\obj\Debug\net7.0\MJU-TPmoyennes.pdb
+C:\Users\mathi\source\repos\MJU_TPMoyennes\obj\Debug\net7.0\MJU-TPmoyennes.genruntimeconfig.cache
+C:\Users\mathi\source\repos\MJU_TPMoyennes\obj\Debug\net7.0\ref\MJU-TPmoyennes.dll
